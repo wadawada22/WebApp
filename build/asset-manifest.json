@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2393d54e.css",
+    "main.js": "/static/js/main.380c868e.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/sidebar-styler2.jpg": "/static/media/sidebar-styler2.d935a48039ded197a3e9.jpg",
+    "static/media/bb_logo2.jpg": "/static/media/bb_logo2.9df7b0e9db2e2a9675bd.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2393d54e.css.map": "/static/css/main.2393d54e.css.map",
+    "main.380c868e.js.map": "/static/js/main.380c868e.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2393d54e.css",
+    "static/js/main.380c868e.js"
+  ]
+}
